@@ -1,0 +1,6 @@
+$container-border-color: #ccc;
+
+.container {
+    border: 3px solid $container-border-color;
+    padding: 10px;
+}

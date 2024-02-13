@@ -1,7 +1,7 @@
 import {render} from "react-dom";
-import {Customer} from "./components/Customer";
+import {App} from "./App";
 
 render(
-  <Customer/>,
+  <App/>,
   document.getElementById('root')
 );

@@ -39,6 +39,7 @@ module.exports = {
     'import/no-extraneous-dependencies': 'off',
     'no-underscore-dangle': 'off',
     'max-len': ['error', { code: 100, ignoreComments: true }],
+    'react/state-in-constructor': 'off',
   },
   globals: {
     __IS_DEV__: true,
